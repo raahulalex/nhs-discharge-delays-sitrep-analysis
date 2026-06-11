@@ -1,0 +1,38 @@
+metric,delay_reason_short,total_value,avg_monthly_value,max_monthly_value,reporting_months
+Care transfer hub process – Waiting for confirmation of immediate care needs and pathway,CTH: awaiting care needs/pathway confirmation,12996.1166667,1083.009722225,1252.0,12
+"Capacity – Bed-based rehabilitation, reablement or recovery services not yet available (Pathway 2)",Capacity: bed-based rehab/reablement unavailable,12119.2333334,1009.9361111166667,1066.5,12
+Hospital process – Awaiting therapy review of need for supported discharge,Hospital: awaiting therapy review,9636.4333334,803.0361111166667,934.25,12
+Capacity – Residential/nursing home care not yet available (Pathway 3),Capacity: residential/nursing home unavailable,9375.8666667,781.322222225,820.4166667,12
+Interface process – Residential/nursing home care arrangements still underway (Pathway 3),Interface: residential/nursing home arrangements,9086.4333334,757.2027777833333,857.5,12
+"Interface process – Bed-based rehabilitation, reablement or recovery service arrangements still underway (Pathway 2)",Interface: bed-based rehab arrangements,8877.35,739.7791666666667,900.75,12
+"Capacity – Home-based rehabilitation, reablement or recovery services not yet available (Pathway 1)",Capacity: home-based rehab/reablement unavailable,8114.4333333,676.2027777750001,790.0,12
+Interface process – Other home-based social care service arrangements still underway (Pathway 1),Interface: home-based social care arrangements,6639.5166667,553.2930555583333,623.0,12
+Hospital process – Awaiting referral to care transfer hub for supported discharge,Hospital: awaiting referral to care transfer hub,5898.7500001,491.5625000083333,549.25,12
+"Interface process – Home based rehabilitation, reablement or recovery service arrangements still underway (Pathway 1)",Interface: home-based rehab arrangements,5744.6333333,478.71944444166667,562.25,12
+Care transfer hub process– Awaiting necessary referrals by care transfer hub,CTH: awaiting necessary referrals,4734.5666667000005,394.54722222500004,441.1,12
+Hospital process - Awaiting medical review of need for supported discharge,Hospital: awaiting medical review,4506.3,375.52500000000003,411.2833333,12
+"Hospital process – Awaiting medicines to take home, discharge letter or other discharge documentation",Hospital: medicines/discharge documentation,4231.7666666,352.64722221666665,421.5,12
+Capacity – Other home-based social care service not yet available (Pathway 1),Capacity: home-based social care unavailable,3882.5500001,323.54583334166665,366.25,12
+Hospital process – Awaiting formal decision to discharge (inc diagnostic test results),Hospital: awaiting formal discharge decision,3355.35,279.6125,378.3333333,12
+Capacity – Equipment and associated training not yet delivered (Pathway 1-3),Capacity – Equipment and associated training not yet delivered (Pathway 1-3),2913.3833333000002,242.7819444416667,274.0,12
+Interface process – Out of area discharge arrangements requested but not completed,Interface process – Out of area discharge arrangements requested but not completed,2782.0166667,231.83472222499998,277.25,12
+Wellbeing concerns - Issues with discharge destination readiness,Wellbeing concerns - Issues with discharge destination readiness,2394.9333333,199.577777775,231.5,12
+Hospital process – Awaiting patient transport services,Hospital process – Awaiting patient transport services,2153.2166666,179.43472221666664,248.0833333,12
+Capacity – End of life care inc Fast-Track CHC not yet available (Pathway 1 or 3),Capacity – End of life care inc Fast-Track CHC not yet available (Pathway 1 or 3),2089.0166667,174.08472222499998,205.75,12
+Wellbeing concerns – Awaiting determination of mental capacity,Wellbeing concerns – Awaiting determination of mental capacity,2029.2,169.1,194.5,12
+Interface process – End of life care inc Fast-Track CHC arrangement still underway (Pathway 1 or 3),Interface process – End of life care inc Fast-Track CHC arrangement still underway (Pathway 1 or 3),1991.1999999,165.933333325,194.25,12
+Wellbeing concerns – Ongoing safeguarding concern,Wellbeing concerns – Ongoing safeguarding concern,1736.85,144.73749999999998,157.0,12
+Capacity – Other home-based community health services not yet available (Pathway 1),Capacity – Other home-based community health services not yet available (Pathway 1),1680.0,140.0,209.4,12
+Interface process – Self-funded care package arrangements still underway,Interface process – Self-funded care package arrangements still underway,1471.45,122.62083333333334,140.5,12
+Wellbeing concerns – Patient /family/carer concerns over discharge readiness,Wellbeing concerns – Patient /family/carer concerns over discharge readiness,1458.9333334,121.57777778333333,135.5,12
+Capacity – Awaiting restart of existing social care arrangements (Pathway 0),Capacity – Awaiting restart of existing social care arrangements (Pathway 0),1441.95,120.16250000000001,151.75,12
+Interface process – Patient/family/carer choice discussions on package still underway,Interface process – Patient/family/carer choice discussions on package still underway,1070.56666669,89.21388889083333,104.9166667,12
+Interface process – Housing provision arrangement for homelessness still underway (Pathway 0 or 1),Interface process – Housing provision arrangement for homelessness still underway (Pathway 0 or 1),1033.63333334,86.13611111166666,93.41666667,12
+Care transfer hub process – Awaiting confirmation of funding eligibility,Care transfer hub process – Awaiting confirmation of funding eligibility,1010.51666667,84.20972222249999,92.41666667,12
+Capacity – Mental health admitted patient care not yet available (Pathway 2),Capacity – Mental health admitted patient care not yet available (Pathway 2),900.88333333,75.07361111083334,85.25,12
+Interface process – Further action requested by agreed provider,Interface process – Further action requested by agreed provider,802.4,66.86666666666666,86.5,12
+Capacity – Housing adaptations not yet completed (Pathway 1 or 3),Capacity – Housing adaptations not yet completed (Pathway 1 or 3),770.49999999,64.2083333325,72.5,12
+Capacity – Housing provision not yet available (Pathway 0 or 1),Capacity – Housing provision not yet available (Pathway 0 or 1),743.69999999,61.97499999916667,73.75,12
+Interface process – Other home-based community health service arrangements still underway (Pathway 1),Interface process – Other home-based community health service arrangements still underway (Pathway 1),696.26666667,58.0222222225,77.0,12
+Hospital process – Remaining in hospital due to infection prevention and control restrictions,Hospital process – Remaining in hospital due to infection prevention and control restrictions,437.2,36.43333333333333,92.5,12
+Interface process – Homeless with no recourse to public funds,Interface process – Homeless with no recourse to public funds,326.71666667,27.226388889166667,34.15,12

@@ -1,0 +1,9 @@
+metric,destination_short,total_value,avg_monthly_value,max_monthly_value,reporting_months,destination_share_pct
+"Pathway 0: Discharge to a domestic home, hotel, or other temporary accommodation without the need for new/increased care or support from health and social care","P0: home/temp accommodation, no new support",2963125.0,246927.08333333334,265596.0,12,83.28037771665124
+"Pathway 1: Discharge to a domestic home, hotel, or other temporary accommodation, or hospice at home with rehabilitation, reablement and recovery",P1: home with rehab/reablement,258059.0,21504.916666666668,24112.0,12,7.252900567198921
+"Pathway 2: Short-term bed/hospice for rehabilitation, reablement and recovery / end of life care",P2: short-term bed/hospice,114157.0,9513.083333333334,10625.0,12,3.208449889559082
+"Pathway 1: Discharge to a domestic home, hotel, or other temporary accommodation, or hospice at home with other new/additional support (eg end of life care)",P1: home with other new support,73622.0,6135.166666666667,6718.0,12,2.0691897804700434
+Pathway 0: Discharge back to an original care home placement when the care home has confirmed they can continue to meet the person’s needs with the same level of support,P0: return to original care home,67504.0,5625.333333333333,6103.0,12,1.8972397780670156
+Pathway 3: Discharge to a care home as a new admission,P3: new care home admission,44435.0,3702.9166666666665,4141.0,12,1.2488719118631169
+"Pathway 1: Discharge back to original care home placement with rehabilitation, reablement and recovery or with an increased level of support",P1: original care home with support,20046.0,1670.5,2177.0,12,0.5634046662587608
+Pathway 3: Discharge to a care home/hospice as a new admission for end-of-life care,P3: care home/hospice EOL admission,17063.0,1421.9166666666667,1613.0,12,0.47956568993181864
