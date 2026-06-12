@@ -173,7 +173,7 @@ The dashboard is designed around four main sections:
    * Top delay reasons
    * Discharge destination share
 
-Tableau Public link:
+Tableau Public link: [NHS Acute Discharge Delays Analysis 2025–26]([PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/views/NHSAcuteDischargeDelaysAnalysis202526/NHSDischargeDelays?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
 ## Tableau-Ready Outputs
